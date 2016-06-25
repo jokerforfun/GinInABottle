@@ -1,0 +1,19 @@
+{
+  "name": "gin-in-a-bottle-client",
+  "version": "1.0.0",
+  "description": "browser 2d puzzle gamne client",
+  "main": "client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jokerforfun/GinInABottle.git"
+  },
+  "author": "GinCrew",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jokerforfun/GinInABottle/issues"
+  },
+  "homepage": "https://github.com/jokerforfun/GinInABottle#readme"
+}
